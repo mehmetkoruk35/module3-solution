@@ -1,0 +1,21 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+nav {
+    border: 3px solid rgb(92, 203, 255);
+}
+
+footer {
+    border-top: black solid 1px;
+    margin-bottom:-15px;
+}
+li a{
+    text-align: center;
+}
+
+li a:hover {
+    background-color:rgb(92, 203, 255);
+    border:1px solid white ;
+    border-radius:7px;
+} 
